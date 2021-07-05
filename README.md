@@ -7,6 +7,6 @@ Course Instructor: [Francesca Odone](https://scholar.google.com/citations?user=r
 ![Timeline](./img/cvcc_timeline.jpeg)
 
 ## Desciption
-|./day_x - Files from each days
-|./img - Pretty obvious
-|./git_pus.sh - Be lazy like me. Let bash push for you!
+|./day_x - Files from each days  
+|./img - Pretty obvious  
+|./git_pus.sh - Be lazy like me. Let bash push for you!  
